@@ -1,0 +1,36 @@
+h1{
+    font-variant: small-caps;
+}
+
+body{
+    
+    font-weight: bold;
+}
+p{
+    font-family: "lucida console";
+    font-size: 16px;
+    font-weight: bold;
+}
+#k{
+    background-color: rgb(115, 115, 228);
+    border-color: greenyellow;
+}
+#v1{
+    color: blue;
+    
+}
+#v2{
+    color: blueviolet;
+}
+#v3{
+    color: brown;
+}
+#ch1{
+    color: rgb(232, 18, 200);
+}
+#ch2{
+    color: rgb(87, 4, 163);
+}
+#b{
+    color: rgb(226, 6, 50);
+}
